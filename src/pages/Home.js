@@ -1,5 +1,5 @@
 import React from 'react';
-import { showCaption, hideCaption } from '../assets/scripts/main';
+import { showCaption, hideCaption } from '../assets/scripts/main.js';
 
 const Home = () => (
     <main class="min-vh-100">
@@ -23,7 +23,7 @@ const Home = () => (
             </div>
             <div class="col-lg-6">
                 <figure class="p-3" onMouseOver={showCaption} onMouseOut={hideCaption}>
-                <img class="img-fluid mx-auto d-block rounded" src={require("../assets/images/origami_dragon_2.jpg")} alt="Pic of origami dragon" />
+                <img class="img-fluid mx-auto d-block rounded" src="../assets/images/origami_dragon_2.jpg" alt="Pic of origami dragon" />
                 <figcaption class="text-center invisible">Origami Fiery Dragon</figcaption>
                 </figure>
             </div>
@@ -41,7 +41,7 @@ const Home = () => (
             </div>
             <div class="col-lg-6">
                 <figure class="p-3" onMouseOver={showCaption} onMouseOut={hideCaption}>
-                <img class="img-fluid mx-auto d-block rounded" src={require("../assets/images/paper_crane_2.jpg")} alt="Pic of traditional crane" />
+                <img class="img-fluid mx-auto d-block rounded" src="../assets/images/paper_crane_2.jpg" alt="Pic of traditional crane" />
                 <figcaption class="text-center invisible">Traditional Paper Crane</figcaption>
                 </figure>
             </div>
@@ -59,7 +59,7 @@ const Home = () => (
             </div>
             <div class="col-lg-6">
                 <figure class="p-3" onMouseOver={showCaption} onMouseOut={hideCaption}>
-                <img class="img-fluid mx-auto d-block rounded" src={require("../assets/images/folding_origami_2.jpg")} alt="Pic of someone paper folding" />
+                <img class="img-fluid mx-auto d-block rounded" src="../assets/images/folding_origami_2.jpg" alt="Pic of someone paper folding" />
                 <figcaption class="text-center invisible">Paper Folding In Action</figcaption>
                 </figure>
             </div>
