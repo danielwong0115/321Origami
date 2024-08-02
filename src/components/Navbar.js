@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { highlightBackground, unhighlightBackground } from '../assets/scripts/main';
+import { highlightBackground, unhighlightBackground } from '../assets/scripts/main.js';
 import ProgressBar from "react-scroll-progress-bar";
 
 const Navbar = () => (
