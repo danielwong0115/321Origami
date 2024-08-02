@@ -1,6 +1,6 @@
 import React from 'react';
 import { showCaption, hideCaption } from '../assets/scripts/main.js';
-import dragon from '../../../assets/logo.png';
+import dragon from '../../assets/logo.png';
 
 const Home = () => (
     <main class="min-vh-100">
