@@ -1,5 +1,5 @@
 import React from 'react';
-import { showCaption, hideCaption } from '../assets/scripts/main';
+import { showCaption, hideCaption } from '../assets/scripts/main.js';
 
 const History = () => (
     <main class="min-vh-100">
@@ -46,7 +46,7 @@ const History = () => (
                 <div class="p-3 text-center">
                 <h2>Akira Yoshizawa</h2>
                 <figure class="p-1" onMouseOver={showCaption} onMouseOut={hideCaption}>
-                    <img class="img-fluid mx-auto d-block rounded" src={require("../assets/images/person11.jpg")} alt="Pic of Akira Yoshizawa" />
+                    <img class="img-fluid mx-auto d-block rounded" src="../assets/images/person11.jpg" alt="Pic of Akira Yoshizawa" />
                     <figcaption class="text-center invisible">Grandfather of Origami: Akira Yoshizawa</figcaption>
                 </figure>
                 <p class= "p-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor posuere ac ut consequat semper viverra nam libero justo. Vestibulum lectus mauris ultrices eros in. Diam donec adipiscing tristique risus nec feugiat in fermentum. Elit eget gravida cum sociis natoque.</p>
@@ -56,7 +56,7 @@ const History = () => (
                 <div class="p-3 text-center">
                 <h2>Satoshi Kamiya</h2>
                 <figure class="p-1" onMouseOver={showCaption} onMouseOut={hideCaption}>
-                    <img class="img-fluid mx-auto d-block rounded" src={require("../assets/images/person2_1.jpg")} alt="Pic of Satoshi Kamiya" />
+                    <img class="img-fluid mx-auto d-block rounded" src="../assets/images/person2_1.jpg" alt="Pic of Satoshi Kamiya" />
                     <figcaption class="text-center invisible">Origami Artist Satoshi Kamiya</figcaption>
                 </figure>
                 <p class= "p-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor posuere ac ut consequat semper viverra nam libero justo. Vestibulum lectus mauris ultrices eros in. Diam donec adipiscing tristique risus nec feugiat in fermentum. Elit eget gravida cum sociis natoque.</p>
@@ -66,7 +66,7 @@ const History = () => (
                 <div class="p-3 text-center">
                 <h2>Robert Lang</h2>
                 <figure class="p-1" onMouseOver={showCaption} onMouseOut={hideCaption}>
-                    <img class="img-fluid mx-auto d-block rounded" src={require("../assets/images/person32.jpg")} alt="Pic of Robert Lang" />
+                    <img class="img-fluid mx-auto d-block rounded" src="../assets/images/person32.jpg" alt="Pic of Robert Lang" />
                     <figcaption class="text-center invisible">Origami Artist and Physicist Robert Lang</figcaption>
                 </figure>
                 <p class= "p-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor posuere ac ut consequat semper viverra nam libero justo. Vestibulum lectus mauris ultrices eros in. Diam donec adipiscing tristique risus nec feugiat in fermentum. Elit eget gravida cum sociis natoque.</p>
