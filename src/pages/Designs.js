@@ -1,5 +1,5 @@
 import React from 'react';
-import { showCaption, hideCaption } from '../assets/scripts/main';
+import { showCaption, hideCaption } from '../assets/scripts/main.js';
 
 const Designs = () => (
     <main class="min-vh-100">
@@ -8,7 +8,7 @@ const Designs = () => (
                 <div class="row">
                 <div class="col-lg-6">
                     <figure class="p-5" onMouseOver={showCaption} onMouseOut={hideCaption}>
-                    <img class="img-fluid mx-auto d-block rounded" src={require("../assets/images/pheonix2.jpg")} alt="Pic of origami pheonix" />
+                    <img class="img-fluid mx-auto d-block rounded" src="../assets/images/pheonix2.jpg" alt="Pic of origami pheonix" />
                     <figcaption class="text-center invisible">Origami Pheonix by Satoshi Kamiya</figcaption>
                     </figure>
                 </div>
@@ -32,7 +32,7 @@ const Designs = () => (
                 </div>
                 <div class="col-lg-6">
                     <figure class="p-5" onMouseOver={showCaption} onMouseOut={hideCaption}>
-                    <img class="img-fluid mx-auto d-block rounded" src={require("../assets/images/rose2.jpg")} alt="Pic of origami rose" />
+                    <img class="img-fluid mx-auto d-block rounded" src="../assets/images/rose2.jpg" alt="Pic of origami rose" />
                     <figcaption class="text-center invisible">Origami Rose by Toshikazu Kawasaki</figcaption>
                     </figure>
                 </div>
@@ -44,7 +44,7 @@ const Designs = () => (
                 <div class="row">
                 <div class="col-lg-6">
                     <figure class="p-5" onMouseOver={showCaption} onMouseOut={hideCaption}>
-                    <img class="img-fluid mx-auto d-block rounded" src={require("../assets/images/frog2.jpg")} alt="Pic of origami tree frog" />
+                    <img class="img-fluid mx-auto d-block rounded" src="../assets/images/frog2.jpg" alt="Pic of origami tree frog" />
                     <figcaption class="text-center invisible">Origami Tree Frog by Robert Lang</figcaption>
                     </figure>
                 </div>
