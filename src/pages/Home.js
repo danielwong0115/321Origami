@@ -23,7 +23,7 @@ const Home = () => (
             </div>
             <div class="col-lg-6">
                 <figure class="p-3" onMouseOver={showCaption} onMouseOut={hideCaption}>
-                <img class="img-fluid mx-auto d-block rounded" src='../../../public/images/origami_dragon_2.jpg' alt="Pic of origami dragon" />
+                <img class="img-fluid mx-auto d-block rounded" src={`${process.env.PUBLIC_URL}/images/origami_dragon_2.jpg`} alt="Pic of origami dragon" />
                 <figcaption class="text-center invisible">Origami Fiery Dragon</figcaption>
                 </figure>
             </div>
