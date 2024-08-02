@@ -1,13 +1,13 @@
 import React from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Navbar from './components/Navbar';
-import Footer from './components/Footer';
-import Home from './pages/Home';
-import Designs from './pages/Designs';
-import History from './pages/History';
-import Resources from './pages/Resources';
-import Contact from './pages/Contact';
+import Navbar from './components/Navbar.js';
+import Footer from './components/Footer.js';
+import Home from './pages/Home.js';
+import Designs from './pages/Designs.js';
+import History from './pages/History.js';
+import Resources from './pages/Resources.js';
+import Contact from './pages/Contact.js';
 
 function App() {
 
