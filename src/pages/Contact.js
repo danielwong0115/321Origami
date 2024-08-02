@@ -1,5 +1,5 @@
 import React from 'react';
-import { showCaption, hideCaption } from '../assets/scripts/main';
+import { showCaption, hideCaption } from '../assets/scripts/main.js';
 
 const Contact = () => (
     <main class="min-vh-100">
@@ -17,7 +17,7 @@ const Contact = () => (
                 </div>
                 <div class="col-md-6">
                     <figure class="p-4" onMouseOver={showCaption} onMouseOut={hideCaption}>
-                    <img class="img-fluid mx-auto d-block rounded" src={require("../assets/images/people_folding_origami_together.jpg")} alt="People folding origami together" />
+                    <img class="img-fluid mx-auto d-block rounded" src="../assets/images/people_folding_origami_together.jpg" alt="People folding origami together" />
                     <figcaption class="text-center invisible">Join the origami network!</figcaption>
                     </figure>
                 </div>
