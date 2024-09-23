@@ -72,7 +72,7 @@ const Home = () => (
             <div class="col">
                 <div class="p-3 text-center">
                 <h2>Get Folding!</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim eu turpis egestas pretium aenean. Quis lectus nulla at volutpat diam ut venenatis. Lacus sed viverra tellus in. Egestas sed sed risus pretium quam vulputate dignissim. Sed ullamcorper morbi tincidunt ornare massa. Id ornare arcu odio ut sem nulla. Viverra aliquet eget sit amet tellus cras adipiscing enim.</p>
+                <p>Interested in origami? Begin folding and explore the art of transforming paper into intricate designs. Whether you’re a beginner or have some experience, there’s always something new to learn. Focus on the process rather than perfection. Grab a sheet of paper, follow clear instructions, and watch your ideas take shape. Start your origami journey today—it's a rewarding way to engage your mind and hands.</p>
                 </div>
             </div>
             </div>
