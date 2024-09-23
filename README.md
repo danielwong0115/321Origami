@@ -26,7 +26,6 @@ Make sure you have the following installed on your system:
    ```bash
    cd 321Origami
    
-
 ## Available Scripts
 
 In the project directory, you can run:
