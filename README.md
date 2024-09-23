@@ -3,9 +3,7 @@
 This personal webpage on my hobby of origami was made using the React framework.
 Here is the live [website](https://321-origami.vercel.app/) for the project.
 
-## Getting Started
-
-Follow these instructions to clone the repository and set up the React app on your local machine.
+## Cloning and Running on Local Machine
 
 ### Prerequisites
 
