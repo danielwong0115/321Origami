@@ -21,6 +21,12 @@ Make sure you have the following installed on your system:
    ```bash
    git clone https://github.com/danielwong0115/321Origami.git
 
+2. **Navigate to the Project Directory**
+   
+   ```bash
+   cd 321Origami
+   
+
 ## Available Scripts
 
 In the project directory, you can run:
