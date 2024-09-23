@@ -36,7 +36,7 @@ const Home = () => (
             <div class="col-lg-6">
                 <div class="p-3">
                 <h2>Why Origami?</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa ultricies mi quis hendrerit dolor magna eget est. Sed libero enim sed faucibus turpis in. Aliquet nibh praesent tristique magna sit amet purus gravida. Quisque egestas diam in arcu cursus euismod quis viverra. Etiam erat velit scelerisque in dictum non consectetur. Id consectetur purus ut faucibus pulvinar. Enim tortor at auctor urna nunc id. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Id venenatis a condimentum vitae sapien pellentesque habitant morbi tristique.</p>
+                <p>Origami is more than just an art form; it's a mindful practice that engages creativity, patience, and problem-solving. The simple act of folding paper can improve focus, relieve stress, and even boost hand-eye coordination. Origami encourages innovative thinking, as each fold brings new possibilities to life. Whether you’re a beginner or an experienced folder, origami offers a rewarding experience, turning a plain piece of paper into something extraordinary. It’s a calming hobby that connects people across cultures and generations, making it an enriching pursuit for all ages.</p>
                 </div>
             </div>
             <div class="col-lg-6">
