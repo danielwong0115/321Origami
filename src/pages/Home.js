@@ -18,7 +18,7 @@ const Home = () => (
             <div class="col-lg-6">
                 <div class="p-3 text-center">
                 <h1 class="fw-bold display-5">So Much More To Paper</h1>
-                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus nisl tincidunt eget nullam non nisi est sit amet. Congue eu consequat ac felis donec.</p>
+                <p class="lead">Discover the art of origami, where simple sheets of paper transform into intricate creations. From classic folds to modern designs, explore endless possibilities and unlock your creativity through paper folding.</p>
                 </div>
             </div>
             <div class="col-lg-6">
