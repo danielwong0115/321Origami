@@ -54,7 +54,7 @@ const Home = () => (
             <div class="col-lg-6">
                 <div class="p-3">
                 <h2>My Journey</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci eu lobortis elementum nibh tellus molestie nunc non. Leo in vitae turpis massa sed. Neque aliquam vestibulum morbi blandit cursus risus at ultrices. Urna et pharetra pharetra massa massa ultricies. Tincidunt lobortis feugiat vivamus at augue eget arcu dictum. Sollicitudin ac orci phasellus egestas tellus rutrum. Dapibus ultrices in iaculis nunc sed augue lacus viverra. Enim lobortis scelerisque fermentum dui faucibus in. Sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus.</p>
+                <p>My journey with origami began as a simple curiosity, but it quickly became a lifelong passion. What started with folding basic shapes gradually evolved into mastering intricate designs. Along the way, I’ve discovered that origami isn’t just about creating beautiful objects—it’s about patience, perseverance, and the joy of seeing something take shape in your hands. Each fold tells a story of trial, error, and achievement. Over time, I’ve honed my skills and found joy in sharing this art form with others, inspiring creativity and mindfulness through paper folding.</p>
                 </div>
             </div>
             <div class="col-lg-6">
