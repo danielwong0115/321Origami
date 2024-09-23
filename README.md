@@ -1,4 +1,4 @@
-# Origami App Using React
+# React Origami App
 
 This personal webpage on my hobby of origami was made using the React framework.  
 Here is the live [website](https://321-origami.vercel.app/) for the project.
