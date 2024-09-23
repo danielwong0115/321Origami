@@ -1,6 +1,25 @@
-# Getting Started with Create React App
+# Origami App Using React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This personal webpage on my hobby of origami was made using the React framework.
+Here is the live [website](https://321-origami.vercel.app/) for the project.
+
+## Getting Started
+
+Follow these instructions to clone the repository and set up the React app on your local machine.
+
+### Prerequisites
+
+Make sure you have the following installed on your system:
+- **Node.js** – [Download Node.js](https://nodejs.org/)
+- **Git** – [Download Git](https://git-scm.com/)
+
+### Cloning the Repository
+
+1. **Clone the Repository:**
+
+   Open a terminal and run the following command to clone the repository to your desired directory:
+   ```bash
+   git clone https://github.com/danielwong0115/321Origami.git
 
 ## Available Scripts
 
